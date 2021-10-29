@@ -14,7 +14,7 @@ const categoryData = [
     category_name: 'Hats',
   },
   {
-    category_name: '愛愛愛愛愛',
+    category_name: 'Shoes',
   },
 ];
 
